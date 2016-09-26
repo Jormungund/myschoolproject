@@ -1,0 +1,46 @@
+body {
+	background-color: #F44336;
+}
+#bannerpic {
+	float: right;
+	margin: 20px;
+	border-style: ridge;
+	border-width: 10px;
+	border-color: #673AB7;
+	padding: 5px;
+	box-shadow: 5px 5px 5px #673AB7
+}
+
+#face {
+	text-align: center;
+}
+
+#FaceDiv {
+	text-align: center;
+}
+
+.clearfloat {
+	clear: both;
+}
+
+#banner {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom:25px;
+	margin-top:25px;
+}
+h3 {
+	text-align:center;
+}
+
+#aboutme {
+	background-color:#673AB7;
+	color:#00FFFF;
+	font-size: 1.25em;
+	padding: 12px 18px;
+	border-radius: 12px;
+}
+
+#aboutme:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,225,0.50)
+}
